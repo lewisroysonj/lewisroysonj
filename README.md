@@ -1,5 +1,5 @@
 
-# [![Royson Lewis header](https://storage.googleapis.com/royson-lewis.appspot.com/royson%20cover.png)](https://roysonlewis.com)
+# [![Royson Lewis header](/Assets/Roysoon%20Cover@2x.png)](https://roysonlewis.com)
 
 
 

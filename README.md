@@ -32,7 +32,3 @@ I design and develop full-stack websites and web apps using modern and advanced 
 
   ---
 
-
-💎 Checkout my [Portfolio](https://roysonlewis.com/)
-
----

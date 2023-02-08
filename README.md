@@ -1,5 +1,5 @@
 
-# [![Royson Lewis header](/Assets/Roysoon%20Cover@2x.png)](https://roysonlewis.com)
+# [![Royson Lewis header](/Assets/Royson%20Cover@2x.png)](https://roysonlewis.com)
 
 
 

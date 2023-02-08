@@ -23,11 +23,13 @@
 </a>
 </p>
 
----
+-----
 
 
 Hello there 👋,
 
 <p>I am a Highly motivated, self-learnt and results-driven web developer and UI/UX Designer with a passion for creating user-friendly and efficient web applications. I am Experienced in leading a frontend team and delivering quality solutions in fast-paced startup environments with proficiency in technologies such as Typescript, Javascript, React.js, Node.js, Docker and more, with a deep understanding of how to create efficient and effective web applications. Committed to solving complex problems and creating visually appealing and user-friendly designs that meet and exceed client expectations.</p>
-  ---
+-----
+
+Visit my Portfolio website -> <a href="https://roysonlewis.com/">roysonlewis.com</a>
 

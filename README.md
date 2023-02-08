@@ -28,7 +28,6 @@
 
 Hello there 👋,
 
-I design and develop full-stack websites and web apps using modern and advanced technologies such as Adobe XD and Figma for design, Javascript libraries such as React.JS along with HTML and CSS for the front-end, and Node.JS with database Management systems such as MySQL, MongoDB, etc. for the backend.
-
+I am a Highly motivated, self-learnt and results-driven web developer and UI/UX Designer with a passion for creating user-friendly and efficient web applications. I am Experienced in leading a frontend team and delivering quality solutions in fast-paced startup environments with proficiency in technologies such as Typescript, Javascript, React.js, Node.js, Docker and more, with a deep understanding of how to create efficient and effective web applications. Committed to solving complex problems and creating visually appealing and user-friendly designs that meet and exceed client expectations.
   ---
 
